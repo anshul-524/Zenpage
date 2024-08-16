@@ -6,7 +6,9 @@
     margin: 0;
     text-decoration: none;
 }
-
+.slick-dots{
+    display: none !important;
+}
 .accordin-bg-img {
     background-image: url(/assets/images/png/accodtion-bg-image.png);
 }
